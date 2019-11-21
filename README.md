@@ -1,90 +1,67 @@
-# Welcome to GitHub
+### Keybase proof
 
-Welcome to GitHub—where millions of developers work together on software. Ready to get started? Let’s learn how this all works by building and publishing your first GitHub Pages website!
+I hereby claim:
 
-## Repositories
+  * I am adarafi on github.
+  * I am adearafi (https://keybase.io/adearafi) on keybase.
+  * I have a public key ASB2_1kbheuo9VnEamBhDw3J9CZWz9kUHfzw2n-6tvyx9Qo
 
-Right now, we’re in your first GitHub **repository**. A repository is like a folder or storage space for your project. Your project's repository contains all its files such as code, documentation, images, and more. It also tracks every change that you—or your collaborators—make to each file, so you can always go back to previous versions of your project if you make any mistakes.
+To claim this, I am signing this object:
 
-This repository contains three important files: The HTML code for your first website on GitHub, the CSS stylesheet that decorates your website with colors and fonts, and the **README** file. It also contains an image folder, with one image file.
-
-## Describe your project
-
-You are currently viewing your project's **README** file. **_README_** files are like cover pages or elevator pitches for your project. They are written in plain text or [Markdown language](https://guides.github.com/features/mastering-markdown/), and usually include a paragraph describing the project, directions on how to use it, who authored it, and more.
-
-[Learn more about READMEs](https://help.github.com/en/articles/about-readmes)
-
-## Your first website
-
-**GitHub Pages** is a free and easy way to create a website using the code that lives in your GitHub repositories. You can use GitHub Pages to build a portfolio of your work, create a personal website, or share a fun project that you coded with the world. GitHub Pages is automatically enabled in this repository, but when you create new repositories in the future, the steps to launch a GitHub Pages website will be slightly different.
-
-[Learn more about GitHub Pages](https://pages.github.com/)
-
-## Rename this repository to publish your site
-
-We've already set-up a GitHub Pages website for you, based on your personal username. This repository is called `hello-world`, but you'll rename it to: `username.github.io`, to match your website's URL address. If the first part of the repository doesn’t exactly match your username, it won’t work, so make sure to get it right.
-
-Let's get started! To update this repository’s name, click the `Settings` tab on this page. This will take you to your repository’s settings page. 
-
-![repo-settings-image](https://user-images.githubusercontent.com/18093541/63130482-99e6ad80-bf88-11e9-99a1-d3cf1660b47e.png)
-
-Under the **Repository Name** heading, type: `username.github.io`, where username is your username on GitHub. Then click **Rename**—and that’s it. When you’re done, click your repository name or browser’s back button to return to this page.
-
-<img width="1039" alt="rename_screenshot" src="https://user-images.githubusercontent.com/18093541/63129466-956cc580-bf85-11e9-92d8-b028dd483fa5.png">
-
-Once you click **Rename**, your website will automatically be published at: https://your-username.github.io/. The HTML file—called `index.html`—is rendered as the home page and you'll be making changes to this file in the next step.
-
-Congratulations! You just launched your first GitHub Pages website. It's now live to share with the entire world
-
-## Making your first edit
-
-When you make any change to any file in your project, you’re making a **commit**. If you fix a typo, update a filename, or edit your code, you can add it to GitHub as a commit. Your commits represent your project’s entire history—and they’re all saved in your project’s repository.
-
-With each commit, you have the opportunity to write a **commit message**, a short, meaningful comment describing the change you’re making to a file. So you always know exactly what changed, no matter when you return to a commit.
-
-## Practice: Customize your first GitHub website by writing HTML code
-
-Want to edit the site you just published? Let’s practice commits by introducing yourself in your `index.html` file. Don’t worry about getting it right the first time—you can always build on your introduction later.
-
-Let’s start with this template:
-
-```
-<p>Hello World! I’m [username]. This is my website!</p>
+```json
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120d3d2fda1f9391083c817143c83ce6a4ffe8423d8cf7fe88c2548d6c2cab236320a",
+      "host": "keybase.io",
+      "kid": "012076ff591b85eba8f559c46a60610f0dc9f42656cfd9141dfcf0da7fbab6fcb1f50a",
+      "uid": "a8db055c6034d580d25572fe9e136619",
+      "username": "adearafi"
+    },
+    "merkle_root": {
+      "ctime": 1574363348,
+      "hash": "b98116d9020638ebccf4ebc6afaafd26ba7417e31242702d7fc52d6602263c6844525e8e2848168efa3af36aac1859b67e3690ff208219067338dbd4d362351e",
+      "hash_meta": "efae1bbbfaf1e0eb5bcb7bc2835fd10c035056fd4664686838ab63e832c56734",
+      "seqno": 10445091
+    },
+    "service": {
+      "entropy": "aeg1SiM7zHo3IjJGkT/3b1R/",
+      "name": "github",
+      "username": "adarafi"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.0.0"
+  },
+  "ctime": 1574363354,
+  "expire_in": 504576000,
+  "prev": "16a04283eb3ecbd9812e6305c07b8f077b9c4c9c90c08cd8069307631d2d8c75",
+  "seqno": 12,
+  "tag": "signature"
+}
 ```
 
-To add your introduction, copy our template and click the edit pencil icon at the top right hand corner of the `index.html` file.
-
-<img width="997" alt="edit-this-file" src="https://user-images.githubusercontent.com/18093541/63131820-0794d880-bf8d-11e9-8b3d-c096355e9389.png">
-
-
-Delete this placeholder line:
+with the key [ASB2_1kbheuo9VnEamBhDw3J9CZWz9kUHfzw2n-6tvyx9Qo](https://keybase.io/adearafi), yielding the signature:
 
 ```
-<p>Welcome to your first GitHub Pages website!</p>
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgdv9ZG4XrqPVZxGpgYQ8NyfQmVs/ZFB388Np/urb8sfUKp3BheWxvYWTESpcCDMQgFqBCg+s+y9mBLmMFwHuPB3ucTJyQwIzYBpMHYx0tjHXEINEEZbAMBBpZ8RBx0MPLCX73Cqq4CMyxvrtJJgrsApaCAgHCo3NpZ8RAgPNX9JpMNsgkp7CC/Bf3Igvq99NSFxro59e95j8qlQ2ztP+dRSempkuPgWMMMDqivRtE7ee5e+LDJgEXb5rCCahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIJ2ILA+Ywz3qosfnJX+W4GJZZFwECSkKqxQ9NAo20e5wo3RhZ80CAqd2ZXJzaW9uAQ==
+
 ```
 
-Then, paste the template to line 15 and fill in the blanks.
+And finally, I am proving ownership of the github account by posting this as a gist.
 
-<img width="1032" alt="edit-githuboctocat-index" src="https://user-images.githubusercontent.com/18093541/63132339-c3a2d300-bf8e-11e9-8222-59c2702f6c42.png">
+### My publicly-auditable identity:
 
+https://keybase.io/adearafi
 
-When you’re done, scroll down to the `Commit changes` section near the bottom of the edit page. Add a short message explaining your change, like "Add my introduction", then click `Commit changes`.
+### From the command line:
 
+Consider the [keybase command line program](https://keybase.io/download).
 
-<img width="1030" alt="add-my-username" src="https://user-images.githubusercontent.com/18093541/63131801-efbd5480-bf8c-11e9-9806-89273f027d16.png">
-
-Once you click `Commit changes`, your changes will automatically be published on your GitHub Pages website. Refresh the page to see your new changes live in action.
-
-:tada: You just made your first commit! :tada:
-
-## Extra Credit: Keep on building!
-
-Change the placeholder Octocat gif on your GitHub Pages website by [creating your own personal Octocat emoji](https://myoctocat.com/build-your-octocat/) or [choose a different Octocat gif from our logo library here](https://octodex.github.com/). Add that image to line 12 of your `index.html` file, in place of the `<img src=` link.
-
-Want to add even more code and fun styles to your GitHub Pages website? [Follow these instructions](https://github.com/github/personal-website) to build a fully-fledged static website.
-
-![octocat](./images/create-octocat.png)
-
-## Everything you need to know about GitHub
-
-Getting started is the hardest part. If there’s anything you’d like to know as you get started with GitHub, try searching [GitHub Help](https://help.github.com). Our documentation has tutorials on everything from changing your repository settings to configuring GitHub from your command line.
+```bash
+# look me up
+keybase id adearafi
+```
